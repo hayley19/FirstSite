@@ -1,0 +1,10 @@
+/*css reset - to prevent user-agent's style (chrome, safari)*/
+/* use command and slash to comment */
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+h1{
+  color: #fed021;
+}
